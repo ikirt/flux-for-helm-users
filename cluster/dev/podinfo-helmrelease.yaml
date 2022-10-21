@@ -17,6 +17,6 @@ spec:
   releaseName: my-release
   values:
     logLevel: debug
-    replicaCount: 2
+    replicaCount: 1
     ui:
       color: blue

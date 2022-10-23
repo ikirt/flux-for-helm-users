@@ -17,4 +17,3 @@ spec:
   releaseName: grafana-release
   values:
     replicas: 2
-
